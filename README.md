@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliygosteev/)
 
 ### 🏆 Trophies & Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=vitaliygosteev&title=Joined2020,Commits,Stars,Repositories&margin-w=10&theme=chalk)](https://github.com/vitaliygosteev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitaliygosteev&title=Joined2020,Commits&margin-w=10&theme=chalk)](https://github.com/vitaliygosteev/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vitaliygosteev&theme=react)](https://git.io/streak-stats)
 
